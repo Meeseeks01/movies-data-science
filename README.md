@@ -159,25 +159,5 @@ This project showcases the following data science competencies:
 
 ---
 
-## 🔮 Future Enhancements
-
-### Planned Improvements:
-
-- [ ] **ROI Prediction** - Predict profitability instead of raw revenue
-- [ ] **Advanced Features** - Incorporate cast, director, and marketing spend data
-- [ ] **Gradient Boosting** - Experiment with XGBoost and LightGBM
-- [ ] **Time-Based Validation** - Implement realistic temporal train/test splits
-- [ ] **Deep Learning** - Explore neural network architectures
-- [ ] **Deployment** - Create interactive web application for predictions
-
----
-
 <div align="center">
 
-## 📬 Contact & Portfolio
-
-*This project was developed to demonstrate applied machine learning skills with real-world data.*
-
-**Built with** ❤️ **for data-driven decision making**
-
-</div>
