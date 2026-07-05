@@ -26,7 +26,6 @@
 - [Project Structure](#-project-structure)
 - [Technologies Used](#-technologies-used)
 - [Skills Demonstrated](#-skills-demonstrated)
-- [Future Enhancements](#-future-enhancements)
 
 ---
 
